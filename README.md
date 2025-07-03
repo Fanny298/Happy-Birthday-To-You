@@ -147,7 +147,7 @@
   </div>
 
 <div class="page" id="page3" style="font-family: 'Dancing Script', cursive;">
-    <h2>My Precious, soulatte <𝟑 .ᐟ </h2>
+    <h2>My Precious<𝟑 .ᐟ </h2>
     <div class="letter" id="letterText"></div>
 </div>
 
